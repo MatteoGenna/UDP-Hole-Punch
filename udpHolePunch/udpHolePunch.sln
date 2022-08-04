@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udpHolePunch", "udpHolePunch\udpHolePunch.csproj", "{4A713444-D111-453F-9AA2-2CB59B50D807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A713444-D111-453F-9AA2-2CB59B50D807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A713444-D111-453F-9AA2-2CB59B50D807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A713444-D111-453F-9AA2-2CB59B50D807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A713444-D111-453F-9AA2-2CB59B50D807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A72C8DC-4D7A-48E9-844B-654DC9749475}
+	EndGlobalSection
+EndGlobal
